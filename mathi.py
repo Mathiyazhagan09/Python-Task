@@ -1,6 +1,6 @@
-name="Mathi"
-age=25
-jobrole="Fullstack developer"
-print("Name;",name)
-print("Age:",age)
-print("Jobrole:",jobrole)
+name=str(input("Enter Your Name"))
+age=int(input("Enter Your age"))
+course=str(input("Enter Your Course"))
+print("Name",name)
+print("Age",age)
+print("Course",course)
